@@ -1,1 +1,39 @@
 Pertemuan 1
+
+Definisi pengujian, kualitas dan hubunganyaa
+ 
+1.1 tujuan pembelajaran
+adapun tujuan pembelajaran yang akan dicapai sebagai berikut :
+1. memahami definisi pengujian perangkat lunak
+2. memahami definisi kualitas perangkat lunak
+3. memahami hubungan pengujian dan kualitas perangkat lunak
+
+A. Testing (pengujian)
+(menurut Naik & Tripathy pada tahun 2008). pengujian software adalah proses verifikasi untuk penilian dan perbaikan kualitas perangkat lunak
+
+B. definisi pengujian perangkat lunak
+testing atau pengujian perangkat lunak adalah sebuah proses untuk mencari atau menemukan kesalahan-kesalan dalam pembuatan sebuah perangkat lunak yang tanpa sengaja  muncul didalam sistem. serta memastikan bahwa perangkat lunak sesuai dengan spesifikasi kebutuhan ataupun tujuan yang telah ditentukan sebelumnya.
+aktvitas pengujian/peniliain software ada dua, yaitu :
+1). analisa statik, didasarkan sejumlah dokumen misalnya kebutuhan, model, desain, dan sorce code.
+2). analisa dinamis, didasarkan pada perilaku dan kinerja software, dengan cara mengeksekusinya.
+
+SDLC : 1. planning, 2. analysist, 3. design, 4. development, 5. testing, 6. maintenance
+
+C. klasifikasi kesalahan perangkat lunak
+1) kesalahan bahasa (language error)
+kesalahan bahasa dapat dapat disebuut juga dengan kesalahan penulisan (syntax error) atau kesalahan tata bahasa dalam pemgrograman (grammatical error) dimana kesalahan ini terdapat pada penulisan source code program yang tidak sesuai.
+
+2) kesalahan waktu proses (run-time error)
+kesalaha ini merupakan bentuk kesalahan pada saat sebuah program perangkat lunak di eksekusi atau dijalankan (executable program), yang mengakibatkan proses terhenti karena adanya sebuah kondisi atau alur program yang belum terpenuhi.
+
+3) kesalahan logika (logical error)
+kesalahan logika merupakan kesalahan dalam sebuah penentuan alur yang tidak seusai pada tujuan pembuatan perangkat lunak, hal ini pada beberapa kasus dikarenakan kurangnya sebuah analisa kebutuhan atau buruknya komunikasi antara analisa program dengan proggrammer.
+
+D. definisi kualitas perangkat lunak
+Roger S. Pressman mengemukakan beberapa beberapa definisi kualitas perangkat lunak, dengan memberikan titik terpenting yaitu :
+
+1. Kualitas perangkat lunak berdasarkan ke efektifan adalah proses perangkat lunak yang mampu menetapkan setiap infrastruktur berdasarkan kebutuhan dalam mendukung pengembangan produk perangkat lunak.
+2. kualitas perangkat lunak berdasarkan kemanfataanya adalah perangkat lunak yang memiliki kesesuaia alur, fungsi-fungsi serta interface yang diinginkan dan tujuan dari semua kebutuhan dengan tidak adanya kesalahan-kesalahan.
+3. kualitas perangkat lunak berdasarkan nilai adalah perangkat lunak yang mampu memberika keuntungan yang lebih dari sebelum dikembangkanya perangkat lunak.
+
+Secara umum kualitas perangkat adalah suatu proses perangkat lunak yang mampu memberikan ke efektifan yang dihasilkan oleh sebuah perangkat lunak dan memiliki ukuran atau nilai berdasarkan sudut pandang.
